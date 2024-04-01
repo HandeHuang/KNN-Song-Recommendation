@@ -1,5 +1,9 @@
 # Wrapped_Project
 
+***Added 04/01/2024: This project was completed in April 2022 as the final project of the course CMSE 202: Computational Modeling and Data Analysis II at the Michigan State University. My contributions are data slicing, all algorithms, and cross-validation.***
+
+***Below is the original description:***
+
 This project is a model of Spotify Wrapped. Our project uses packages like numpy and pandas to take data and reduce it down into readable and easy to manupilate dataframes. The data used in this project was taken from our own spotify history (as Spotify allows for you to download your streaming history for the last year); the data files were the streaming histories from groupmates Raksha Sridharan, Jack Haggerty, Jacob Kaspar, Hannah Sullivan, Hande Huang, and an extra dataset by an associate of Jacob's, delivered from Spotify. Our project also uses a csv named tracks.csv by Yamac Eren Ay that is an accumulation of many songs from 1921 to 2020; specifically on Spotify. It doesn't have all of the songs currently on Spotify that have been released during these years, but it has many of them, and is extremely useful for our project. It has nine features that we will use to help find similar songs via knn to the songs on our streaming histories. 
 
 Our project also uses a package called spotipy, created by Paul Lamere (plamere on Github) and other contributors. Spotipy allows for ease of access into spotipy's data on artists, genres, albums, playlists, and more, which were instrumental to helping us understand how we were going to create the recommendation feature for our project. 
